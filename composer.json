@@ -1,15 +1,20 @@
 {
-    "name": "ircmaxell/PasswordPolicy",
+    "name": "vocjunior/password-policy",
     "type": "library",
     "version": "0.1.0-beta1",
     "description": "A tool for managing password policies",
     "keywords": ["password", "policy"],
+    "homepage": "https://github.com/vocjunior/password-policy",
     "license": "MIT",
     "authors": [
         {
             "name": "Anthony Ferrara",
             "email": "ircmaxell@ircmaxell.com",
             "homepage": "http://blog.ircmaxell.com"
+        },
+        {
+            "name": "Contributors",
+            "homepage": "https://github.com/vocjunior/password-policy/graphs/contributors"
         }
     ],
     "require": {
