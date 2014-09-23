@@ -3,7 +3,7 @@
     "type": "library",
     "description": "A tool for managing password policies",
     "keywords": ["password", "policy"],
-    "homepage": "https://github.com/vocjunior/password-policy",
+    "homepage": "https://github.com/martinssipenko/password-policy",
     "license": "MIT",
     "authors": [
         {
